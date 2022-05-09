@@ -26,4 +26,4 @@ jobs:
           app-name: 'VMXHA-Function'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D537CC7272F4F58AF78853B580DC7AF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_931F90AE7F9644259A70641A7A6B16A2 }}
